@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x86EfF5137e2461cD4b93FF6289879bfeb03d86Da",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x86eff5137e2461cd4b93ff6289879bfeb03d86da",
+  "CONTRACT_ADDRESS": "0xd7809dd81a204812580e8d727fc54cf0b4d2c846",
+  "SCAN_LINK": "https://polygonscan.com/tx/0x8f95f4628e8e4897ea4434ae573cebab7637ee0f311030a5d31a90e520eb4b1c",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/croco-vs-rhinos-v3",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/croco-vs-rhinos",
   "SHOW_BACKGROUND": true
 }
